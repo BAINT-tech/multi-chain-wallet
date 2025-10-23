@@ -1,0 +1,18 @@
+{
+  "name": "multi-chain-wallet",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start"
+  },
+  "dependencies": {
+    "expo": "~52.0.0",
+    "react": "18.3.1",
+    "react-native": "0.76.3",
+    "ethers": "^6.7.0",
+    "@solana/web3.js": "^1.95.3",
+    "bip39": "^3.0.4",
+    "ed25519-hd-key": "^1.2.0",
+    "ethereumjs-wallet": "^1.0.2"
+  }
+}
